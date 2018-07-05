@@ -1,11 +1,14 @@
 /*
 * @Author: Marte
+<<<<<<< HEAD
 * @Date:   2018-07-05 15:22:22
 * @Last Modified by:   Marte
-* @Last Modified time: 2018-07-05 15:23:32
+* @Last Modified time: 2018-07-05 15:27:54
 */
 /*
 * @Author: Marte
+=======
+>>>>>>> bc3391efd76baa81d84e7ffa6c28b2d1c0328edf
 * @Date:   2018-07-05 15:11:05
 * @Last Modified by:   Marte
 * @Last Modified time: 2018-07-05 15:15:49
@@ -29,7 +32,8 @@ body{
     display: flex;
     flex-direction: column;
 }
-footer{
+footer,
+header{
     width: 100%;
     height: 0.8rem;
     background: #cccccc;
